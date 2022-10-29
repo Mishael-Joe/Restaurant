@@ -63,7 +63,7 @@ nav div {
 .firstsection {
     height: 100%;
     width: 100%;
-    background-image: url(food\ 3.jpg);
+    background-image: url(./images/food\ 3.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover; 
@@ -523,7 +523,6 @@ footer a:hover {
     .forthsection button {
         height: 7%;
         width: 30%;
-        font-size: ;
         font-weight: lighter;
         margin-top: 20px;
     }
